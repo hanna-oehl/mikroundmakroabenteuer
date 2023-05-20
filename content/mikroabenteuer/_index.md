@@ -1,5 +1,5 @@
 ---
-title: Von kleinen Abenteuern...
+title:
 
 # Listing view
 view: compact
