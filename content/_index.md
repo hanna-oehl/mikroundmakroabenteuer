@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Willkommen!
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit...
   
   - block: collection
     content:
-      title: Latest News
+      title: von kleinen Abenteuern
       subtitle:
       text:
       count: 5
@@ -31,7 +30,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: mikroabenteuer
     design:
       view: card
       columns: '1'
