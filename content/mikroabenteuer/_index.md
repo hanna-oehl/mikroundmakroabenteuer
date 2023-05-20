@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: mikroabenteuer
 
 # Listing view
 view: compact
