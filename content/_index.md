@@ -34,6 +34,15 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./makroabenteuer/" cta_text="Das große Abenteuer →" %}}
+    design:
+      columns: '1'
   
   - block: markdown
     content:
@@ -54,15 +63,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./makroabenteuer/" cta_text="Das große Abenteuer →" %}}
-    design:
-      columns: '1'
   
   - block: markdown
     content:
