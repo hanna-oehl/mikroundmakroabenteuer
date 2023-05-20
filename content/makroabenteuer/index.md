@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 365 Tage
-        content: Sieh dir unsere grobe Routenplanung an 👉🏻
+        content: 👉🏻
         align: center
         background:
           image:
