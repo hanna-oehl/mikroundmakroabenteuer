@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Wir sind Tobi & Hanna und haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit...
+        Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit auf diese aufregende und schöne Reise...
   
   - block: collection
     content:
