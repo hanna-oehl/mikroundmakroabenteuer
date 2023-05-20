@@ -39,13 +39,12 @@ sections:
     content:
       title:
       subtitle: ''
-      text: |
-        {{% cta cta_link="./makroabenteuer/" cta_text="Das große Abenteuer →" %}}
+      text:
     design:
       columns: '1'
       background:
         image: 
-          filename: bulli.jpg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
@@ -56,6 +55,14 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text:
+    design:
+      columns: '1'
+
   - block: markdown
     content:
       title:
