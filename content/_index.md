@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit...
+        Wir sind Tobi & Hanna und haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit...
   
   - block: collection
     content:
@@ -54,13 +54,22 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./makroabenteuer/" cta_text="Das große Abenteuer →" %}}
+    design:
+      columns: '1'
   
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./wir/" cta_text="Das sind wir →" %}}
     design:
       columns: '1'
 ---
