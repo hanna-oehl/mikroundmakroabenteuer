@@ -58,7 +58,6 @@ sections:
       # Add your Hero text here
       text:      
     design:
-    columns: '1'
       # Choose an optional background color, gradient, image, or video
       image:
       filename: bulli.jpg
