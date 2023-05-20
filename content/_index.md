@@ -34,21 +34,13 @@ sections:
     design:
       view: card
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./makroabenteuer/" cta_text="Das große Abenteuer →" %}}
-    design:
-      columns: '1'
   
   - block: markdown
     content:
       title:
       subtitle: ''
-      text:
+      text: |
+        {{% cta cta_link="./makroabenteuer/" cta_text="Das große Abenteuer →" %}}
     design:
       columns: '1'
       background:
