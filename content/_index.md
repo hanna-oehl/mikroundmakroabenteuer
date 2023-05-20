@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: von kleinen Abenteuern
+      title: Von kleinen Abenteuern...
       subtitle:
       text:
       count: 5

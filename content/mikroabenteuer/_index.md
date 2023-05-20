@@ -1,5 +1,5 @@
 ---
-title: mikroabenteuer
+title: Von kleinen Abenteuern...
 
 # Listing view
 view: compact
