@@ -77,7 +77,7 @@ sections:
       title:
       image:
         # Reference an image in your `assets/media/` folder
-        filename: bulli.jpg
+        
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Das große Abenteuer
