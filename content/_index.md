@@ -34,44 +34,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text:
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./wir/" cta_text="Das sind wir →" %}}
-    design:
-      columns: '1'
-
+      
   - block: hero
     content:
       title:
@@ -98,4 +61,6 @@ sections:
       # Choose an optional background color, gradient, image, or video
       image:
       filename: bulli.jpg
+      position: center
+      size: cover
 ---
