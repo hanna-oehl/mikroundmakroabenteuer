@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: makroabenteuer
+    url: makroabenteuer
     weight: 20
-  - name: News
-    url: post
+  - name: mikroabenteuer
+    url: mikroabenteuer
     weight: 10
   - name: wir
     url: wir
