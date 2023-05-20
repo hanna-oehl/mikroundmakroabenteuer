@@ -8,15 +8,25 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Wir nehmen uns 1 Jahr Zeit um zu reisen!
-        content: Sieh dir unsere grobe Routenplanung an...
+      - title: 365 Tage
+        content: Sieh dir unsere grobe Routenplanung an 👉🏻
         align: center
         background:
           image:
             filename: bulli.jpg
             filters:
               brightness: 0.7
-          position: right
+          position: center
+          color: '#666'
+      - title:
+        content:
+        align: center
+        background:
+          image:
+            filename: route.jpg
+            filters:
+              brightness: 0.7
+          position: center
           color: '#666'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
