@@ -71,7 +71,6 @@ sections:
         {{% cta cta_link="./wir/" cta_text="Das sind wir →" %}}
     design:
       columns: '1'
----
 
   - block: hero
     content:
