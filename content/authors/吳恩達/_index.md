@@ -6,10 +6,6 @@ title: Henry
 first_name: Henry
 last_name:
 
-# Username (this should match the folder name)
-authors:
-  - 吳恩達
-
 # Is this the primary user of the site?
 superuser: false
 
