@@ -33,7 +33,7 @@ sections:
       page_type: mikroabenteuer
     design:
       view: card
-      columns: '1'
+      columns: '2'
       
   - block: hero
     content:
