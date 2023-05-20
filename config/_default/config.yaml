@@ -5,6 +5,7 @@
 
 title: wir sind raus # Website name
 baseURL: 'https://mikroundmakroabenteuer.netlify.app' # Website URL
+relativeURLs = true
 
 ############################
 ## LANGUAGE
