@@ -65,4 +65,4 @@ sections:
       size: cover
 ---
 
-{{< spotify type="album" id="5vqILcEeCT0N1DeJBsLrGE" width="100%" height="250" >}}
+{{< spotify type="track" id="0cX8lVW9hM3n7BwnDPN2L5" width="100%" height="250" >}}
