@@ -31,7 +31,7 @@ sections:
       title: Von kleinen Abenteuern...
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -42,7 +42,7 @@ sections:
       order: desc
       page_type: mikroabenteuer
     design:
-      view: showcase
+      view: compact
       columns: '1'
       
   - block: hero
