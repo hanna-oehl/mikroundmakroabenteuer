@@ -1,24 +1,81 @@
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.114.0" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %s shortcode requires Hugo v%s or later." .Name $minHugoVersion }}
+{{- end }}
 
-<!--
-Parameters:
-    type - (Required) album / track / playlist / artist
-    id - (Required) Target ID
-    width - (Optional) width
-    height - (Optional) height
--->
+{{- /* Get context. */}}
+{{- $name := .Name }}
+{{- $ordinal := .Ordinal }}
+{{- $position := .Position }}
 
-{{ if .IsNamedParams }}
-<iframe src="https://open.spotify.com/embed/{{ .Get "type" }}/{{ .Get "id" }}"
-    width="{{ default "100%" (.Get "width") }}"
-    height="{{ default "380" (.Get "height") }}"
-    frameborder="0"
-    allowtransparency="true"
-    allow="encrypted-media"></iframe>
-{{ else }}
-<iframe src="https://open.spotify.com/embed/{{ .Get 0 }}/{{ .Get 1 }}"
-    width="{{ default "100%" (.Get 2) }}"
-    height="{{ default "380" (.Get 3) }}"
-    frameborder="0"
-    allowtransparency="true"
-    allow="encrypted-media"></iframe>
-{{ end }}
+{{- /* Set default height for each widget type. */}}
+{{- $defaultHeight := dict
+  "album" "380px"
+  "artist" "380px"
+  "episode" "232px"
+  "playlist" "380px"
+  "show" "232px"
+  "track" "380px"
+ }}
+
+{{- /* Parse url. */}}
+{{- $url := "" }}
+{{- with .Get "url" }}
+  {{- $url = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a url parameter. See %s" $name $position }}
+{{- end }}
+{{- $path := (urls.Parse $url).Path }}
+{{- $type := index (split $path "/" ) 1 }}
+
+{{- /* Set defaults. */}}
+{{- $class := printf "spotify spotify-%s" $type }}
+{{- $id := printf "h-sc-%s-%d" $name $ordinal }}
+{{- $width := "100%" }}
+{{- $height := index $defaultHeight $type }}
+{{- $loading := "lazy" }}
+{{- $useTheme := 1 }}
+
+{{- /* Get parameters. */}}
+{{- with .Get "class" }}
+  {{- $class = printf "%s %s" $class . }}
+{{- end }}
+{{- with .Get "id" }}
+  {{- $id = . }}
+{{- end }}
+{{- with .Get "width" }}
+  {{- $width = . }}
+{{- end }}
+{{- with .Get "height" }}
+  {{- $height = . }}
+{{- end }}
+{{- with .Get "loading" }}
+  {{- $loading = . }}
+{{- end }}
+{{- if isset .Params "useTheme" }}
+  {{- if in (slice false "false") (.Get "useTheme") }}
+    {{- $useTheme = 0 }}
+  {{- end }}
+{{- end }}
+
+{{- /* Define attributes map. */}}
+{{- $attrs := dict
+  "class" $class
+  "id" $id
+  "style" (printf "width: %s; height: %s; border: none;" $width $height)
+  "loading" $loading
+  "src" (printf "https://open.spotify.com/embed%s?theme=%d" $path $useTheme)
+  "allow" "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  "allowfullscreen" "allowfullscreen"
+}}
+
+{{- /* Render. */}}
+<iframe
+{{- range $k, $v := $attrs }}
+  {{- if $v }}
+    {{- printf " %s=%q" $k (string $v) | safeHTMLAttr }}
+  {{- end }}
+{{- end -}}
+></iframe>
+{{- /**/ -}}
