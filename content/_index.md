@@ -42,7 +42,7 @@ sections:
       order: desc
       page_type: mikroabenteuer
     design:
-      view: compact
+      view: showcase
       columns: '1'
       
   - block: hero
