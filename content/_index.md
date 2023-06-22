@@ -24,7 +24,7 @@ sections:
       text: |
         <br>
         
-        Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit auf diese aufregende und schöne Reise...
+        Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit auf unsere Reise...
   
   - block: collection
     content:
