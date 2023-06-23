@@ -5,36 +5,13 @@ date: 2023-20-05
 type: landing
 
 sections:
-  - block: slider
+  - block: markdown
     content:
-      slides:
-      - title: 365 Tage
-        content: 👉🏻
-        align: center
-        background:
-          image:
-            filename: bulli.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-          fit: contain
-      - title:
-        content:
-        align: center
-        background:
-          image:
-            filename: route.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
+      title:
+      subtitle:
+      text: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0cX8lVW9hM3n7BwnDPN2L5?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
