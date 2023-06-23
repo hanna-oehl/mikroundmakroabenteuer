@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Hanna & Tobi
+title: Tobi
 
 # Full Name (for SEO)
-first_name: Hanna & Tobi
+first_name: Tobi
 last_name: 
 
 # Is this the primary user of the site?

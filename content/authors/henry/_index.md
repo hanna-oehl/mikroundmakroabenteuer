@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Henry
+title: 🐶 Henry
 
 # Full name (for SEO)
 first_name: Henry
