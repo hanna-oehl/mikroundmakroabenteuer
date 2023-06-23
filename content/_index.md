@@ -18,12 +18,11 @@ sections:
   - block: hero
     content:
       title: |
-        Hi!
+        Willkommen!
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
         Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben. Komm' gern mit auf unsere Reise...
   
   - block: collection
