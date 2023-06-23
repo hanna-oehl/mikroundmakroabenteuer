@@ -18,6 +18,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
+          fit: cover
       - title:
         content:
         align: center
