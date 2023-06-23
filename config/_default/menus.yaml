@@ -6,10 +6,13 @@
 main:
   - name: makroabenteuer
     url: makroabenteuer
-    weight: 20
+    weight: 10
   - name: mikroabenteuer
     url: mikroabenteuer
-    weight: 10
+    weight: 20
   - name: wir
     url: wir
+    weight: 40
+  - name: sehen & staunen
+    url: sehenundstaunen
     weight: 30
