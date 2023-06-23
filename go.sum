@@ -1,3 +1,5 @@
+github.com/rootwork/hugo-module-gallery-grid v0.0.0-20220917024433-da422b21895a h1:GVF7IhtxP4tFK9wwm7Hs677b2LjzyC7/mXqj1RuONkc=
+github.com/rootwork/hugo-module-gallery-grid v0.0.0-20220917024433-da422b21895a/go.mod h1:iSieZp2e6r27jYGeX7MlQwayPfzAwYWMcnkRXgNopsA=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.1.0/go.mod h1:kJwI9H8dicHQCnP8G9EvUDI+oNg/yXcGsjGjwjXuM8I=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.2.0/go.mod h1:kJwI9H8dicHQCnP8G9EvUDI+oNg/yXcGsjGjwjXuM8I=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0 h1:blRMoXNtlxnqXlVi4eCdPtTfVpJkH9J1f6tEKDXimCY=
