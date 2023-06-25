@@ -5,6 +5,20 @@ date: 2023-20-05
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: |
+        <p align="center"> 365 Tage
+      image:
+        filename: street.jpg
+      text: <p align="center"> unterwegs <br> auf den Straßen <br> dieser Welt <br> 👇🏻
+    design:
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: '#1e4620'
+        gradient_start: '#0f2310'
+        text_color_light: true
+
   - block: markdown
     content:
       title:
@@ -14,4 +28,8 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      background:
+        gradient_end: '#1e4620'
+        gradient_start: '#0f2310'
+        text_color_light: true
 ---
