@@ -10,14 +10,14 @@ sections:
       title: |
         <p align="center"> 365 Tage
       image:
-        filename: street.jpg
+        filename:
       text: <p align="center"> unterwegs <br> auf den Straßen <br> dieser Welt <br> 👇🏻
     design:
       # Choose an optional background color, gradient, image, or video
       background:
         image: 
-          filename: 
-        gradient_end: '#0f2310'
+          filename: street.jpg
+        gradient_end: '#1e4620'
         gradient_start: '#0f2310'
         text_color_light: true 
 
@@ -31,7 +31,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       background:
-        gradient_end: '#0f2310'
+        gradient_end: '#1e4620'
         gradient_start: '#0f2310'
         text_color_light: true
 ---
