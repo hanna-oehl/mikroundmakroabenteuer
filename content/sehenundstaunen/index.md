@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        <p align="center"> 365 Tage
+        <p align="center"> 365 Tage <br> unterwegs
       image:
         filename:
-      text: <p align="center"> unterwegs <br> auf den Straßen <br> dieser Welt <br> 👇🏻
+      text:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
