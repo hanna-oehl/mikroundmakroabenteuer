@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <p align="center"> 365 Tage <br> unterwegs
+        <p align="center"> <br> <br> <br> 365 Tage <br> unterwegs <br> <br> <br>
       image:
         filename:
       text:
