@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        <p align="center"> <br> <br> <br> 365 Tage <br> unterwegs <br> <br> <br>
+        <p align="center"> 365 Tage <br> unterwegs <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
       image:
         filename:
-      text:
+      text: 
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -19,7 +19,7 @@ sections:
           filename: street.jpg
         gradient_end: '#1e4620'
         gradient_start: '#0f2310'
-        text_color_light: true 
+        text_color_light:
 
   - block: markdown
     content:
@@ -31,7 +31,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       background:
-        gradient_end:
-        gradient_start:
+        gradient_end: '#0f2310'
+        gradient_start: '#0f2310'
         text_color_light:
 ---
