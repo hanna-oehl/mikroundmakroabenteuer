@@ -9,8 +9,6 @@ sections:
     content:
       title: |
         <p align="center"> 365 Tage
-      image:
-        filename:
       text: <p style="text-align:center;">unterwegs <br> auf den Straßen <br> dieser Welt <br> 👇🏻</p>
     design:
       # Choose an optional background color, gradient, image, or video
