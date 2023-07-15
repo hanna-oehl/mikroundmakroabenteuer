@@ -11,7 +11,7 @@ sections:
         <p align="center"> 365 Tage
       image:
         filename:
-      text: <p align="center"> unterwegs <br> auf den Straßen <br> dieser Welt <br> 👇🏻 /p>
+      text: <p align="center"> unterwegs <br> auf den Straßen <br> dieser Welt <br> 👇🏻
     design:
       # Choose an optional background color, gradient, image, or video
       background:
