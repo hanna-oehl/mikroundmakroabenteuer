@@ -76,3 +76,13 @@ cascade:
   - _target:
       path: /mikroabenteuer/**
     share: false
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
