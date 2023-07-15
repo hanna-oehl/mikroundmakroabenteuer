@@ -31,7 +31,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       background:
-        gradient_end: '#1e4620'
-        gradient_start: '#0f2310'
-        text_color_light: true
+        gradient_end:
+        gradient_start:
+        text_color_light:
 ---
