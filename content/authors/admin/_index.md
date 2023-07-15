@@ -54,5 +54,3 @@ highlight_name: false
 user_groups:
   - Das sind wir 👋🏻
 ---
-
-xxx

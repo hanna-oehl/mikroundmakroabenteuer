@@ -56,4 +56,3 @@ user_groups:
   - Das sind wir 👋🏻
 ---
 
-xxx
