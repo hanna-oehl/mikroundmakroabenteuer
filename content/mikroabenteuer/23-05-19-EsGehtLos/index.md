@@ -10,3 +10,4 @@ Als erstes führt unser Weg...
 <!--more-->
 
 xxx
+<img src="test.jpg" alt="test image">
