@@ -2,6 +2,7 @@
 title: 'Es geht los: die erste Etappe'
 date: 2023-05-19
 authors: ["hanna"]
+tags: ["Portugal"]
 image:
   focal_point: 'top'
 ---
