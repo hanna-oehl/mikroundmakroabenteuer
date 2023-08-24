@@ -32,22 +32,11 @@
   width: 100%;
 }
 
-.container .image-container img {
-  transition: transform 0.25s ease;
-  cursor: zoom-in;
-}
-
-.container .image-conatiner img:active {
-  -webkit-transform: scale(2);
-  transform: scale(2);
-  cursor: zoom-out;
-}
-
 img {
   transition:transform 0.25s ease;
 }
 
-/* img:hover {
+img:hover {
   -webkit-transform:scale(1.5);
   transform:scale(1.5);
-} */
+}
