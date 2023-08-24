@@ -10,7 +10,7 @@ sections:
       title:
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="./demo" >}}
     design:
       columns: '1'
  # - block: markdown
