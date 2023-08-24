@@ -9,7 +9,16 @@ sections:
     content:
       title:
       subtitle:
-      text: <div class="container"> <!-- heading text --> <ul class="image-gallery"<li> <img src="https://source.unsplash.com/VWcPlbHglYc/640x416" alt="" /> <div class="overlay"><span>Image title</span></div> </li> <!-- other items here --> </ul> </div> <ul class="image-gallery"<li> <img src="https://source.unsplash.com/VWcPlbHglYc/640x416" alt="" /> <div class="overlay"><span>Image title</span></div> </li> <!-- other items here --> </ul> </div> <ul class="image-gallery"<li> <img src="https://source.unsplash.com/VWcPlbHglYc/640x416" alt="" /> <div class="overlay"><span>Image title</span></div> </li>
+      text: <html lang="en"> <head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- custom css file link  --> <link rel="stylesheet" href="css/style.css"> </head> <body> <div class="container"> <h1 class="title"> sehen & staunen </h1> <div class="image-container">
+        <img src="images/img-1.jpg" alt="">
+        <img src="images/img-2.jpg" alt="">
+        <img src="images/img-3.jpg" alt="">
+        <img src="images/img-4.jpg" alt="">
+        <img src="images/img-5.jpg" alt="">
+        <img src="images/img-6.jpg" alt="">
+        <img src="images/img-7.jpg" alt="">
+        <img src="images/img-8.jpg" alt="">
+        <img src="images/img-9.jpg" alt=""> </div> </div> </body> </html>
 
     design:
       # See Page Builder docs for all section customization options.
