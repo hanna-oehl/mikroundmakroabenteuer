@@ -1,5 +1,5 @@
 ---
-title: makroabenteuer
+title: sehen & staunen
 date: 2023-20-05
 
 type: landing
