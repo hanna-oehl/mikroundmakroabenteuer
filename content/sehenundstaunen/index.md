@@ -5,6 +5,14 @@ date: 2023-20-05
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
  # - block: markdown
  #   content:
  #     title:
@@ -24,13 +32,4 @@ sections:
  #     # See Page Builder docs for all section customization options.
  #     # Choose how many columns the section has. Valid values: '1' or '2'.
  #     columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
 ---
