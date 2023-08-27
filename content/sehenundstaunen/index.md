@@ -4,6 +4,11 @@ date: 2023-20-05
 
 type: landing
 
+gallery_item:
+  - album: "demo"
+  - image: "static/img/chris-montgomery-smgTvepind4-unsplash.jpg"
+  - caption: "Default"
+
 sections:
   - block: markdown
     content:
