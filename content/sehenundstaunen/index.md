@@ -7,10 +7,24 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Gallery
-      subtitle: test
+      title:
+      subtitle:
       text: |-
-        < gallery album="demo" >
+        <section>
+        <img src="https://unsplash.it/700/600?image=634" alt="Forest"/>
+        <img src="https://unsplash.it/700/300?image=455" alt="Hiking"/>
+        <img src="https://unsplash.it/1500/700?image=629" alt="Italy"/>
+        <img src="https://unsplash.it/700?image=594" alt="House"/>
+        <img src="https://unsplash.it/700/450?image=417" alt="Sun"/>
+        <img src="https://unsplash.it/700/400?image=410" alt="Town"/>
+        <img src="https://unsplash.it/700/550?image=628" alt="Photographer"/>
+        <img src="https://unsplash.it/700/450?image=421" alt="Sea"/>
+        <img src="https://unsplash.it/700/567?image=572" alt="Mountains"/>
+        <img src="https://unsplash.it/700/978?image=623" alt="Golden Gate Bridge"/>
+        <img src="https://unsplash.it/700/654?image=621" alt="Bridge"/>
+        <img src="https://unsplash.it/700/500?image=423" alt="Snow"/>
+        <img src="https://unsplash.it/1000/654?image=930" alt="View"/>
+        <img src="https://unsplash.it/700/950?image=1045" alt="Mountains"/> </section> <div class="lightbox"> <div class="title"></div> <div class="filter"></div> <div class="arrowr"></div> <div class="arrowl"></div> <div class="close"></div> <link rel="stylesheet" href="css/style.css"> </div>
     design:
       columns: '1'
  # - block: markdown
