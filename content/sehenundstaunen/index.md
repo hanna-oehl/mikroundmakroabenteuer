@@ -10,21 +10,18 @@ sections:
       title:
       subtitle:
       text: |-
-        <section>
-        <img src="https://unsplash.it/700/600?image=634" alt="Forest"/>
-        <img src="https://unsplash.it/700/300?image=455" alt="Hiking"/>
-        <img src="https://unsplash.it/1500/700?image=629" alt="Italy"/>
-        <img src="https://unsplash.it/700?image=594" alt="House"/>
-        <img src="https://unsplash.it/700/450?image=417" alt="Sun"/>
-        <img src="https://unsplash.it/700/400?image=410" alt="Town"/>
-        <img src="https://unsplash.it/700/550?image=628" alt="Photographer"/>
-        <img src="https://unsplash.it/700/450?image=421" alt="Sea"/>
-        <img src="https://unsplash.it/700/567?image=572" alt="Mountains"/>
-        <img src="https://unsplash.it/700/978?image=623" alt="Golden Gate Bridge"/>
-        <img src="https://unsplash.it/700/654?image=621" alt="Bridge"/>
-        <img src="https://unsplash.it/700/500?image=423" alt="Snow"/>
-        <img src="https://unsplash.it/1000/654?image=930" alt="View"/>
-        <img src="https://unsplash.it/700/950?image=1045" alt="Mountains"/> </section> <div class="lightbox"> <div class="title"></div> <div class="filter"></div> <div class="arrowr"></div> <div class="arrowl"></div> <div class="close"></div> <link rel="stylesheet" href="css/style.css"> <script src="/js/ga.js"></script> </div>
+        <html lang="en" dir="ltr"> <head> <meta charset="utf-8"> <title>Masonry Image Gallery with Lightbox | CodingNepal</title> <link rel="stylesheet" href="style.css"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"> <script src="script.js" defer></script> </head> <body> <h1>Masonry Image Gallery with Lightbox</h1> <div class="lightbox"> <div class="wrapper"> <header> <div class="details"> <i class="uil uil-camera"></i> <span>Image Preview</span> </div> <div class="buttons"><i class="close-icon uil uil-times"></i></div> </header> <div class="preview-img"> <div class="img"><img src="" alt="preview-img"></div> </div> </div> </div> <section class="gallery"> <ul class="images">
+        <li class="img"><img src="images/img-1.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-2.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-3.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-4.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-5.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-6.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-7.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-8.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-9.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-10.jpg" alt="img"></li>
+        <li class="img"><img src="images/img-11.jpg" alt="img"></li> </ul> </section> </body> </html>
     design:
       columns: '1'
  # - block: markdown
