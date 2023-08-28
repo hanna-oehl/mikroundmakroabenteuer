@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
-      subtitle: ''
+      title: Gallery
+      subtitle: test
       text: |-
         {{< gallery album="demo" >}}
     design:
