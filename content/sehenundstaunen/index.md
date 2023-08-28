@@ -24,7 +24,7 @@ sections:
         <img src="https://unsplash.it/700/654?image=621" alt="Bridge"/>
         <img src="https://unsplash.it/700/500?image=423" alt="Snow"/>
         <img src="https://unsplash.it/1000/654?image=930" alt="View"/>
-        <img src="https://unsplash.it/700/950?image=1045" alt="Mountains"/> </section> <div class="lightbox"> <div class="title"></div> <div class="filter"></div> <div class="arrowr"></div> <div class="arrowl"></div> <div class="close"></div> <link rel="stylesheet" href="css/style.css"> </div>
+        <img src="https://unsplash.it/700/950?image=1045" alt="Mountains"/> </section> <div class="lightbox"> <div class="title"></div> <div class="filter"></div> <div class="arrowr"></div> <div class="arrowl"></div> <div class="close"></div> <link rel="stylesheet" href="css/style.css"> <script src="https://gist.github.com/thanghoboi/aecc8e0195e9e58a056742507472a3d7.js"></script> </div>
     design:
       columns: '1'
  # - block: markdown
