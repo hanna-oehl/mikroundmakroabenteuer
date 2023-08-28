@@ -49,34 +49,15 @@ sections:
       font_size_min: 1.0
       font_size_max: 2.0
       
-  - block: hero
+  - block: markdown
     content:
       title:
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: bulli.jpg
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Das große Abenteuer
-        url: https://mikroundmakroabenteuer.netlify.app/makroabenteuer/
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-      #  label: Ask a question
-      #  url: https://discord.gg/z8wNYzb
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-      #  label: >-
-      #              <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      # Add your Hero text here
-      text:      
+      subtitle:
+      text: <div class="button-wrapper-cta"> <a class="button-cta cta-button" href="https://www.mikroundmakroabenteuer.de/makroabenteuer">Das große Abenteuer</a> <link rel="stylesheet" href="style.css"> </div>
     design:
-      # Choose an optional background color, gradient, image, or video
-      image:
-      filename: bulli.jpg
-      position: center
-      size: cover
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 
   - block: markdown
     content:
