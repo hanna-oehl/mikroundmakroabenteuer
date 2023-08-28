@@ -20,8 +20,7 @@ sections:
         <li class="img"><img src="images/img-7.jpg" alt="img"></li>
         <li class="img"><img src="images/img-8.jpg" alt="img"></li>
         <li class="img"><img src="images/img-9.jpg" alt="img"></li>
-        <li class="img"><img src="images/img-10.jpg" alt="img"></li>
-        <li class="img"><img src="images/img-11.jpg" alt="img"></li> </ul> </section> </body> </html>
+        <li class="img"><img src="images/img-10.jpg" alt="img"></li> </ul> </section> </body> </html>
     design:
       columns: '1'
 ---
