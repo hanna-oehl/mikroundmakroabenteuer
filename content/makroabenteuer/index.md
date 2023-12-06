@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <p align="center"> 365 Tage <br> unterwegs <br> <br> <br> <br> <br> <br> <br> <br>
+        <p align="center"> 2024 <br> unterwegs <br> <br> <br> <br> <br> <br> <br> <br>
       image:
         filename:
       text: 
