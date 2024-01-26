@@ -15,6 +15,7 @@ sections:
         <br>
         
         Wir haben uns auf den Weg gemacht, um mehr kleine und große Abenteuer zu erleben.
+        <br>
   
   - block: collection
     content:
