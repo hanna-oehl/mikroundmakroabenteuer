@@ -6,7 +6,6 @@ tags: []
 image:
   focal_point: 'top'
 ---
-
 In unseren Köpfen haben wir uns diesen Tag schon lange ausgemalt und jetzt fahren wir einfach los. Etwas unwirklich, aber auch verdammt schön. Die ersten beiden Etappen führen uns von Hamm, über das Pariser Umland, bis nach Zarautz an der spanischen Nordküste. 
 
 <!--more-->

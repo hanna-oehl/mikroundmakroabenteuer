@@ -34,7 +34,7 @@ sections:
       order: desc
       page_type: mikroabenteuer
     design:
-      view: compact
+      view: card
       columns: '1'
 
   - block: tag_cloud
