@@ -2,7 +2,7 @@
 title: '[24.-25. Januar] Es ist soweit - Abreisetag!'
 date: 2024-01-24
 authors: [hanna]
-tags: []
+tags: [Frankreich]
 image:
   focal_point: 'top'
 ---
