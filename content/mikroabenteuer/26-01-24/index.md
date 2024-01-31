@@ -2,7 +2,7 @@
 title: '[26.-27. Januar] Baskenland'
 date: 2024-01-26
 authors: [admin]
-tags: []
+tags: [Spanien, Fußball]
 image:
   focal_point: 'top'
 ---

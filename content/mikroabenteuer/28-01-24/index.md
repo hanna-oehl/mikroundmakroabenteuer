@@ -2,7 +2,7 @@
 title: '[28.-30. Januar] Weiter entlang Spaniens Norden'
 date: 2024-01-28
 authors: [admin]
-tags: []
+tags: [Spanien, Fußball]
 image:
   focal_point: 'top'
 ---
