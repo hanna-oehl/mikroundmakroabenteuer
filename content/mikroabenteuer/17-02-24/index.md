@@ -2,7 +2,7 @@
 title: '[17. - 18. Februar] Sevilla'
 date: 2024-02-17
 authors: [admin]
-tags: [Spanien]
+tags: [Spanien, Fußball]
 image:
   focal_point: 'top'
 ---
