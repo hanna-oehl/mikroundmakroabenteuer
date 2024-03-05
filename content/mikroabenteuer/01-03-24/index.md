@@ -2,7 +2,7 @@
 title: '[1. - 3. März] Casablanca und Umgebung'
 date: 2024-03-01
 authors: [admin]
-tags: [Marokko]
+tags: [Marokko, Fußball]
 image:
   focal_point: 'top'
 ---
