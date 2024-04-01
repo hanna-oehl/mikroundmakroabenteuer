@@ -2,7 +2,7 @@
 title: '[29. - 31. März] Zurück in Spanien'
 date: 2024-03-29
 authors: [admin]
-tags: [Marokko, Fußball]
+tags: [Spanien, Fußball]
 image:
   focal_point: 'top'
 ---
