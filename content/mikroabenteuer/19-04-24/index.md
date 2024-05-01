@@ -2,7 +2,7 @@
 title: '[19. - 20. April] Ungarn'
 date: 2024-04-19
 authors: [admin]
-tags: [Ungarn]
+tags: [Ungarn, Fußball]
 image:
   focal_point: 'top'
 ---
