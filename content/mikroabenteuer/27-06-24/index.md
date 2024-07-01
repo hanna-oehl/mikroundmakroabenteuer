@@ -2,7 +2,7 @@
 title: '[27. - 28. Juni] Willkommen in Georgien'
 date: 2024-06-27
 authors: [admin]
-tags: [Georgien]
+tags: [Georgien, Fußball]
 image:
   focal_point: 'top'
 ---
