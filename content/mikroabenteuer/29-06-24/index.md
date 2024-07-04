@@ -6,7 +6,7 @@ tags: [Georgien]
 image:
   focal_point: 'top'
 ---
-Wir erleben den Inbegriff georgischer Gastfreundschaft und werden für zwei Tage zu großen Enkelkindern eines älteren georgischen Paares. So werden aus einem geplanten Tag Georgien auf der Durchreise nach Armenien schon mal vier Tage
+Wir erleben den Inbegriff georgischer Gastfreundschaft und werden für zwei Tage zu großen Enkelkindern eines älteren georgischen Paares. So werden aus einem geplanten Tag Georgien auf der Durchreise nach Armenien schon mal vier Tage.
 
 <!--more-->
 
