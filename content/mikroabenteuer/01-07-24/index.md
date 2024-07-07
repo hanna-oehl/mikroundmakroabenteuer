@@ -1,5 +1,5 @@
 ---
-title: '[01. - 02. Juli] Willkommen in Armenien'
+title: '[1. - 2. Juli] Willkommen in Armenien'
 date: 2024-07-01
 authors: [admin]
 tags: [Georgien, Armenien]
