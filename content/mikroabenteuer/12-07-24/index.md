@@ -2,7 +2,7 @@
 title: '[12. - 13. Juli] Zurück in Georgien'
 date: 2024-07-12
 authors: [hanna]
-tags: [Armenien]
+tags: [Armenien, Georgien]
 image:
   focal_point: 'top'
 ---
