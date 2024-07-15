@@ -2,7 +2,7 @@
 title: '[10. - 11. Juli] Jerewan'
 date: 2024-07-10
 authors: [admin]
-tags: [Armenien]
+tags: [Armenien, Fußball]
 image:
   focal_point: 'top'
 ---
