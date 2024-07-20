@@ -40,8 +40,6 @@ Wir holen hohen Besuch in Tiflis am Flughafen ab und verbringen ein paar Tage in
 
 <img src="Basar.jpg" alt="Basar" caption="">
 
-<img src="Drei.jpg" alt="Wir" caption="">
-
 <img src="KathedraleWeit.jpg" alt="Kathedrale" caption="">
 
 <img src="KathedraleQuer.jpg" alt="Kathedrale" caption="">
