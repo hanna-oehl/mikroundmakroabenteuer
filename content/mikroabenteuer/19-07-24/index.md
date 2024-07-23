@@ -6,7 +6,7 @@ tags: [Georgien]
 image:
   focal_point: 'top'
 ---
-Wegen des Wetters sind wir für noch einen Tag in Tianeti gefangen, befreien uns dann aber mit einer Bulli-Rutschpartie aus dem Matsch und kommen in der Nähe von Gori an.
+Wegen des Wetters sind wir noch einen Tag in Tianeti gefangen, befreien uns dann aber mit einer Bulli-Rutschpartie aus dem Matsch und kommen in der Nähe von Gori an.
 
 <!--more-->
 
