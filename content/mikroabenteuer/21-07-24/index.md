@@ -43,3 +43,5 @@ Das Wetter bessert sich und wir können endlich richtig in die Berge. Über die 
 <img src="Mosaik2.jpg" alt="Mosaik" caption="">
 
 <img src="See.jpg" alt="Aussicht" caption="">
+
+<img src="Route_22.07.24.jpg" alt="Route" caption=" ">
