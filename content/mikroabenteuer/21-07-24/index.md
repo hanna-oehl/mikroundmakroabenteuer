@@ -1,5 +1,5 @@
 ---
-title: '[21. - 22. Juli] Trusotal & Stepansminda'
+title: '[21. - 22. Juli] Trusotal & Stepantsminda'
 date: 2024-07-21
 authors: [hanna]
 tags: [Georgien]
