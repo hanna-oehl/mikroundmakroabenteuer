@@ -1,7 +1,7 @@
 ---
 title: '[25. - 27. Juli] Zurück in der Türkei'
 date: 2024-07-25
-authors: [hanna]
+authors: [admin]
 tags: [Georgien, Türkei]
 image:
   focal_point: 'top'
