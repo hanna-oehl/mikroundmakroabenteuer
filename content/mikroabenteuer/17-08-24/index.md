@@ -2,7 +2,7 @@
 title: '[17. - 18. August] Willkommen in Albanien'
 date: 2024-08-17
 authors: [admin]
-tags: [Griechenland, Albanien]
+tags: [Griechenland, Albanien, Fußball]
 image:
   focal_point: 'top'
 ---
