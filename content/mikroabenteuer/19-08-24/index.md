@@ -2,7 +2,7 @@
 title: '[19. - 20. August] Tirana und Shkodra'
 date: 2024-08-19
 authors: [admin]
-tags: [Griechenland, Albanien, Fußball]
+tags: [Albanien, Fußball]
 image:
   focal_point: 'top'
 ---
